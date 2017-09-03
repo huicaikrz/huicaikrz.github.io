@@ -2,6 +2,7 @@
 
 ### Contact:
 Mail: huicai@umich.edu
+
 Tel: (734) 846-9807
 
 ### About me
@@ -13,11 +14,14 @@ In the long term, I want to go back to China to become a fund manager. I have al
 
 ### Python
 I first studied Python in 2015, and started to use it densely on data analysis from 2016.6. I have also tried Matlab and R, but Python is my favourite. I have always been tried writing pythonic code (by using lambda, list comprehension,……), and I will consist on doing that in the near future.
+
 #### Bootcamp
 Here's some of my python code that I wrote during bootcamp (2017.8.21 - 2017.9.1).
 
 [Basics](https://github.com/huicaikrz/Quant-python/blob/master/python-basics-notebook.ipynb)
+
 [Secert](https://github.com/huicaikrz/Quant-python/blob/master/python-secret-notebook.ipynb)
+
 [Interview Practice](https://github.com/huicaikrz/Quant-python/blob/master/python-interview-notebook.ipynb)
 
 #### Webcrawler
