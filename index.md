@@ -6,12 +6,12 @@ Mail: huicai@umich.edu
 Tel: (734) 846-9807
 
 ### About me
-I am a graduate student in University of Michigan, in the Quantitative Finance and Risk Management program. I got my Bachelor's degree in Mathematics and Finance Class in Shanghai Jiao Tong University. 
+I am now a master's student in University of Michigan, in Quantitative Finance and Risk Management program. I got my Bachelor's degree in Mathematics and Finance Class in Shanghai Jiao Tong University.
 
-Till now, I have done some internship and research in quantitative finance including trading strategy development, risk management, time series analysis, for more details, see my [resume](https://rawgit.com/huicaikrz/HuiCai-Resume/master/Hui%20Cai%20-%20Resume.pdf).
+Till now, I have done some internships in financial industry including developing quantitative trading strategies on options, using python to do backtesting, data analysis, etc. For more details, see my [resume](https://rawgit.com/huicaikrz/HuiCai-Resume/master/Hui%20Cai%20-%20Resume.pdf).
 
 ### Python
-I first studied Python in 2015, and started to use it intensively on data analysis from 2016.5. I have also tried Matlab and R, but Python is my favourite. I have always been tried writing pythonic code (by using lambda, list comprehension,……), and I will consist on doing that.
+I began to use Python in 2015, and started to use it intensively on data analysis from 2016.5. I have also tried Matlab and R, but Python is my favourite. I have always been tried writing pythonic code (by using lambda, list comprehension,……), and I will consist on doing that.
 
 Here's some of my python code I wrote in research or coursework.
 
