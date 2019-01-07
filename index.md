@@ -14,6 +14,7 @@ Till now, I have done some internships in financial industry including developin
 I began to use Python in 2015, and started using it intensively on data analysis from 2016.5. I have also tried Matlab and R, but Python is my favourite. I have always been trying to write pythonic code (by using lambda, list comprehension,……), and I will consist on doing that.
 
 Here's some of my python code I wrote in research or coursework.
+
 [Leetcode](https://github.com/huicaikrz/Leetcode-Problems)
 
 [Machine Learning](https://github.com/huicaikrz/Machine-Learning)
